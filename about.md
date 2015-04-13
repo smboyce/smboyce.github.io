@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Curriculum Vitae
-permalink: /cv/
+title: About
+permalink: /about/
 ---
 
 I don't know what you want to know
