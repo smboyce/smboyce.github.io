@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Curriculum Vitae
+permalink: /cv/
 ---
 
-I don't know what you want to know
-
-### he's more machine now than man
+### Test
 
 yeah yeah
 
