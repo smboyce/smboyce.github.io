@@ -4,11 +4,29 @@ title: About
 permalink: /about/
 ---
 
-I don't know what you want to know
+## My Passions
 
-### he's more machine now than man
+### Beer and other Booze
 
-yeah yeah
+Aside from selling alcohol, I do also enjoy drinking it and occasionally writing about it. My beer festival reviews have featured in the Soton Tab and Wessex Scene.
+
+Lately I mostly drink porters but I do go through phases and generally enjoy most drinks. Many of life's best experiences are inextricably linked to the drink you were nursing at that moment!
+
+### Skill Toys
+
+At university I discovered the fun of juggling, kendama, devil sticks and other skill toys. Nowadays I rarely go anywhere without a yo-yo. I have a couple of tricks with most toys but don't try and make me unicycle...
+
+### Motorsport
+
+Some of my earliest memories are watching the Grand Prix and a love of Formula 1 has stayed with me for life. I also follow other series' including Nascar, British Touring Cars, World Endurance and that sort of thing. There are a few bits I have written on the subject out there on the internet, notably Sportsvibe and a lovely feature on Dean Stoneman in the Soton Tab.
+
+### Music
+
+Over ten years of bass playing and my fingertips are probably permanently ruined but my love of music remains strong. Kyuss will always be my heroes but I have been lucky enough to have seen a thousand or so bands. My clubbing days are definitely behind me but I can still enjoy a good house mix too.
+
+### Tech
+
+I'm a big advocate of open source software. Currently I'm running Debian, Arch and Deepin on various machines and Paranoid Android on my Moto G. Working on some ideas for an app to track my ale drinking habits and suggest new venues and beers for users to try!
 
 ### Contact me
 
