@@ -20,6 +20,8 @@ At university I discovered the fun of juggling, kendama, devil sticks and other 
 
 Some of my earliest memories are watching the Grand Prix and a love of Formula 1 has stayed with me for life. I also follow other series' including Nascar, British Touring Cars, World Endurance and that sort of thing. There are a few bits I have written on the subject out there on the internet, notably Sportsvibe and a lovely feature on Dean Stoneman in the Soton Tab.
 
+On a few occasions I have done a bit of competitive driving with the Wessex Motor Club, karting and amateur rallies. Suffice to say I'm not the next Colin McRae but it's a hell of a buzz!
+
 ### Music
 
 Over ten years of bass playing and my fingertips are probably permanently ruined but my love of music remains strong. Kyuss will always be my heroes but I have been lucky enough to have seen a thousand or so bands. My clubbing days are definitely behind me but I can still enjoy a good house mix too.
