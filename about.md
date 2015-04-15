@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Beer and other Booze
 
-Aside from selling alcohol, I do also enjoy drinking it and occasionally writing about it. My beer festival reviews have featured in the Soton Tab and Wessex Scene.
+Aside from selling alcohol, I do also enjoy drinking it and occasionally writing about it. My beer festival reviews have featured in the [Soton Tab](http://sotontab.co.uk) and [Wessex Scene](http://wessexscene.co.uk).
 
 Lately I mostly drink porters but I do go through phases and generally enjoy most drinks. Many of life's best experiences are inextricably linked to the drink you were nursing at that moment!
 
@@ -18,7 +18,7 @@ At university I discovered the fun of juggling, kendama, devil sticks and other 
 
 ### Motorsport
 
-Some of my earliest memories are watching the Grand Prix and a love of Formula 1 has stayed with me for life. I also follow other series' including Nascar, British Touring Cars, World Endurance and that sort of thing. There are a few bits I have written on the subject out there on the internet, notably Sportsvibe and a lovely feature on Dean Stoneman in the Soton Tab.
+Some of my earliest memories are watching the Grand Prix and a love of Formula 1 has stayed with me for life. I also follow other series' including Nascar, British Touring Cars, World Endurance and that sort of thing. There are a few bits I have written on the subject out there on the internet, notably [Sportsvibe](http://sportsvibe.co.uk) and a lovely feature on [Dean Stoneman](http://sotontab.co.uk/2013/11/02/southamptons-stoneman-back-track/).
 
 On a few occasions I have done a bit of competitive driving with the Wessex Motor Club, karting and amateur rallies. Suffice to say I'm not the next Colin McRae but it's a hell of a buzz!
 
