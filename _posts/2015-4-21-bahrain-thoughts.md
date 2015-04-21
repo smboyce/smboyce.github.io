@@ -3,7 +3,7 @@ layout: post
 title: Bahrain Grand Prix - three thoughts
 ---
 
-Certainly Bahrain didn't serve up the most exciting race ever but there is still some intrigue in the Mercedes—Ferrari battle and also further down the grid.
+Certainly Bahrain didn't serve up the most exciting race ever but there is still some intrigue in the Mercedesâ€”Ferrari battle and also further down the grid.
 
 ## Rosberg, Rosberg, Rosberg
 
