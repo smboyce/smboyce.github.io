@@ -4,6 +4,8 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
+I currently work at the [Leopold Tavern](http://leopoldtavern.co.uk/), home to Southsea's greatest range of beers. I am not looking for new employment.
+
 ## Previous employment
 
 ### Spirit Pub Company
