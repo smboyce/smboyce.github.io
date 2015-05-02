@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Formula Greed and the cost of supporting single-seaters
+title: Formula Greed and supporting single-seaters
 ---
 
 Bernie doesn't want everyone to watch Formula One - he's after a particular demographic. Where is the racing for fans on a budget?
