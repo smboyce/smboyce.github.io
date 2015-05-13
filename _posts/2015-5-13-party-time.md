@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I joined the Greens and here's why"
-published: true
+published: false
 ---
 
 Before the election, I kept hearing similar conversations, at work or out and about. In short, the low-waged buying into the newspaper/Conservative narrative that it is the rest of the lower class responsible for the financial situation of the country.
@@ -20,10 +20,18 @@ Again, without really considering too hard we can imagine there might be good re
 
 ## A Vote for Envy
 
-I want to say something unfashionable that I should have said to this young co-worker I knew. It's not up to everyone else how you spend your benefit money. The poor or out of work or disabled are still allowed to buy things that make them happy.
+I want to say something unfashionable that I should have said to this young co-worker I knew. It's not up to everyone else how you spend your benefit money. The poor or out of work or disabled are still allowed to save for things that make them happy.
 
 I shouldn't say this because some Tory will change it, but when you develop a disability or lose your job, no-one turns up to confiscate your non-essential possessions.
 
 To an extent, I can see why this young guy I worked with was jealous. Cars are nice things to own. He felt that he worked hard and should be able to afford one himself. But should that give him the right to judge someone else whose position he is unlikely to fully understand for having something he wants?
 
 In this way, the government and the media have set the poorest in society against each other, for their own ends. We all hate each other because we can't own everything we want and there's always some bastard with that thing you wish you could afford.
+
+We know why this is the case. Big business wants the government to budget in a particular way, a way that should be unpalatable to the majority. Making us hate each other and jealous of each other is one way of making us elect the government that will make things tougher for low earners.
+
+## A different way
+
+I believe we should make a decision not to succumb to this nonsense. I want to be part of the movement that will build a society that looks after our vulnerable, our planet and our freedoms.
+
+After the general election, I feel it's time for me to get involved however I can and to that end I've joined the Green Party. Obviously there was a lot more to this decision than overhearing this chatter at work
