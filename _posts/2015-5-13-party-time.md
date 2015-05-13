@@ -1,29 +1,26 @@
 ---
 layout: post
-title: "Why now is the time to join a political party (if you haven't already)"
+title: ""
 published: true
 ---
 
-Bernie doesn't want everyone to watch Formula One - he's after a particular demographic. Where is the racing for fans on a budget?
+Before the election, I kept hearing similar conversations, at work or out and about. In short, the low-waged buying into the newspaper/Conservative narrative that it is the rest of the lower class responsible for the financial situation of the country.
 
-## Formula 1 isn't for me
+## On Benefits and BMW ownership
 
-I'm not about to buy a Rolex or a Mercedes or an LG television or even a Sky Sports subscription. If I need an energy boost then Emerge or KX or whatever the cheap Red Bull alternative in whatever supermarket I'm in will do just fine.
+They didn't put it in quite those terms, of course. One colleague at a job I recently left remarked that he knew someone "on benefits who's just bought a Beemer" and everyone else nodded, knowingly. Before I get to the meat of this post, I just want to take a second to examine what this means.
 
-In fact I can't think of a current sponsor of F1 or any team or driver whose product I ever buy. I'm just not the right demographic - which makes sense because F1 is a bit of a luxury sport, not participated in or particularly aimed at the working class person.
+On the face of it, a BMW is a luxury car and being a claiment of benefits is a situation where you're expected not to afford luxuries. Benefits can, as I'm sure we all know, include a range of things such as disability, child benefit, council tax, job-seekers' allowance and various other things.
 
-## This leaves a gap in the market
+So for all I know our BMW owner is disabled, looking for a job, a parent, or all three? In any of these situations I imagine purchasing a car makes sense. Quite a few jobs are available to the willing driver. For many people with disabilities, a safe and reliable means of transport is a lifeline. For parents the merits of a car are probably similarly obvious.
 
-Probably I'm not the only person increasingly frustrated with this and other aspects of F1. Tickets and TV subscriptions for the grand prix are priced much higher than I can really justify. Ferrari, Mercedes, McLaren et cetera are not brands I feel I can relate to. The drivers are (I believe without exception) born at least relatively wealthy and far removed from the world as we live it.
+So what's the issue? Is it that this car is a BMW? Is a BMW too good for someone receiving financial assistance from the state? This seems to be what my former colleague was implying and everyone else seemed to accept.
 
-Is it possible for there to be a single-seater or even sports car class that doesn't have these sorts of issues? After all, with the enormous cost of developing and operating an F1 car it's always going to be a big money game.
+Again, without really considering too hard we can imagine there might be good reasoning behind buying a BMW. Typically they are slightly more expensive than a comparable car of an alternative brand, but perhaps our person found a good deal? Maybe it was the best option for someone with a physical disability, perhaps in a wheelchair and needing a vehicle of specific dimensions. Maybe they had saved for it and it was a luxury they had budgeted for and simply felt they deserved in their life?
 
-##  Isn't this where E could fit in?
+## A Vote for Envy
 
-Formula E is still in the process of establishing a niche. Obviously they want it to be a testbed for electric vehicle technology, at the same time couldn't they aim to be an open-wheel formula for the masses? After all, who's more worried about the rising cost of petrol? *Not those with a Rolex...*
+I want to say something unfashionable that I should have said to this young co-worker I knew. It's not up to everyone else how you spend your benefit money. The poor or out of work or disabled are still allowed to buy things that make them happy.
 
-For me, E is doing a lot of things right. Starting out with spec cars to get the infrastructure in place before the teams become constructors. Using the internet like IndyCar and Nascar do to involve fans. Online streaming of races. Free grandstand tickets to the Long Beach ePrix was also a great move. But the high price of general admission and "viewing platform" premium standing tickets for London smacks of complacency.
+I shouldn't say this because some Tory will change it, but when you develop a disability or lose your job, no-one turns up to confiscate your non-essential possessions.
 
-I don't work in motorsport or in marketing. Maybe smarter folks than I know what they're doing with this Battersea Park race. I do know I'm not paying more for one FE race than I would for a whole day of racing at TOCA, particularly when it's all standing at a pretty flat park and being on a platform is extra!
-
-It would be great for this new series to be a success and maybe upset the status quo in formula racing. I'll keep watching, just not in person this year at least.
