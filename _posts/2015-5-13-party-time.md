@@ -34,4 +34,3 @@ We know why this is the case. Big business wants the government to budget in a p
 
 I believe we should make a decision not to succumb to this nonsense. I want to be part of the movement that will build a society that looks after our vulnerable, our planet and our freedoms.
 
-After the general election, I feel it's time for me to get involved however I can and to that end I've joined the Green Party. Obviously there was a lot more to this decision than overhearing this chatter at work
