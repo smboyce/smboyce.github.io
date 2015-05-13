@@ -22,7 +22,7 @@ Again, without really considering too hard we can imagine there might be good re
 
 I want to say something unfashionable that I should have said to this young co-worker I knew. It's not up to everyone else how you spend your benefit money. The poor or out of work or disabled are still allowed to save for things that make them happy.
 
-I shouldn't say this because some Tory will change it, but when you develop a disability or lose your job, no-one turns up to confiscate your non-essential possessions.
+I shouldn't say this because some Tory will change it, but when you develop a disability or lose your job, no-one turns up to confiscate your non-essential possessions, though in my experience they do largely end up being taken to CEX.
 
 To an extent, I can see why this young guy I worked with was jealous. Cars are nice things to own. He felt that he worked hard and should be able to afford one himself. But should that give him the right to judge someone else whose position he is unlikely to fully understand for having something he wants?
 
