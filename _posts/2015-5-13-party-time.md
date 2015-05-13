@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Formula Greed and supporting single-seaters
+title: "Why now is the time to join a political party (if you haven't already)"
+published: true
 ---
 
 Bernie doesn't want everyone to watch Formula One - he's after a particular demographic. Where is the racing for fans on a budget?
