@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I joined the Greens and here's why"
-published: false
+published: true
 ---
 
 Before the election, I kept hearing similar conversations, at work or out and about. In short, the low-waged buying into the newspaper/Conservative narrative that it is the rest of the lower class responsible for the financial situation of the country.
@@ -33,4 +33,6 @@ We know why this is the case. Big business wants the government to budget in a p
 ## A different way
 
 I believe we should make a decision not to succumb to this nonsense. I want to be part of the movement that will build a society that looks after our vulnerable, our planet and our freedoms.
+
+The villains in our society aren't the poor. Newspapers and politicians would have us believe that there is a class of freeloaders, scroungers, whatever the word they're currently using might be to demonise people with low pay or maybe no job at all. They subscribe to the idea that the poor just aren't working hard enough, that the successful are there on merit. There's no room for the thought that the people in charge were in the right place at the right time or that the majority of people are doing the best they can for themselves and their families.
 
