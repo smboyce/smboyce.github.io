@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "I joined the Greens and here's why"
 published: true
 ---
 
@@ -24,3 +24,6 @@ I want to say something unfashionable that I should have said to this young co-w
 
 I shouldn't say this because some Tory will change it, but when you develop a disability or lose your job, no-one turns up to confiscate your non-essential possessions.
 
+To an extent, I can see why this young guy I worked with was jealous. Cars are nice things to own. He felt that he worked hard and should be able to afford one himself. But should that give him the right to judge someone else whose position he is unlikely to fully understand for having something he wants?
+
+In this way, the government and the media have set the poorest in society against each other, for their own ends. We all hate each other because we can't own everything we want and there's always some bastard with that thing you wish you could afford.
