@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-I currently work at the [Leopold Tavern](http://leopoldtavern.co.uk/), home to Southsea's greatest range of beers.
+I currently work at the Leopold Tavern, home to Southsea's greatest range of beers.
 
 We have ten handpumps for traditional ale and also nine draught beers and ciders so naturally cellar management is a major factor. Our ale range changes twice weekly and we're also known for a wide array of craft bottles.
 
