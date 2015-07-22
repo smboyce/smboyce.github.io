@@ -3,7 +3,7 @@ layout: post
 title: A month with Android Wear
 ---
 
-Wearables feel like the future but after a month with an Android watch am I convinced? Not really.
+Wearables feel like the future but after a month with an Android watch am I convinced?
 
 ## My watch
 
