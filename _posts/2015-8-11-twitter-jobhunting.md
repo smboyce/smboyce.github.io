@@ -24,7 +24,7 @@ The logical thing to do is scrape but then you risk posting the same "featured c
 
 ## Solutions...and further investigations
 
-Currently what I'm doing is taking a custom search from Gumtree, scraping it with Feed43, organising it into RSS using regular expressions, parsing that feed into tweets using Twitterfeed and then posting the content.
+Currently what I'm doing is taking a custom search from Gumtree, scraping it with Feed43, organising it into RSS using regular expressions, parsing that feed into tweets using Twitterfeed and links shortened by bit.ly and then posting the content.
 
 The quick guide I read on regular expressions enabled me to identify the features of the promoted adverts and just ignore them completely. Gumtree only shows up to 20 results per page but for a feed refreshed half-hourly posting up to five times each refresh, this is in the region of enough content to keep the page fresh but few enough to avoid bombarding people.
 
