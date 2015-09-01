@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Beer and other Booze
 
-Aside from selling alcohol, I do also enjoy drinking it and occasionally writing about it. My beer festival reviews have featured in the [Soton Tab](http://sotontab.co.uk/author/simonboyce/) and [Wessex Scene](https://www.wessexscene.co.uk/author/simon-boyce/).
+Aside from selling alcohol, I do also enjoy drinking it and occasionally writing about it. My beer festival reviews have featured in the [Soton Tab](http://sotontab.co.uk/author/simonboyce/) (of which I am a former editor) and [Wessex Scene](https://www.wessexscene.co.uk/author/simon-boyce/).
 
 Lately I mostly drink porters but I do go through phases and generally enjoy most drinks. Many of life's best experiences are inextricably linked to the drink you were nursing at that moment!
 
