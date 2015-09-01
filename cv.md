@@ -8,7 +8,9 @@ I currently work at the Leopold Tavern, home to Southsea's greatest range of bee
 
 We have ten handpumps for traditional ale and also nine draught beers and ciders so naturally cellar management is a major factor. Our ale range changes twice weekly and we're also known for a wide array of craft bottles.
 
-The Leopold doesn't stock the typical big brand lagers, nor do we sell shots and in doing so the pub has carved a distinct niche for itself in an area rich with pubs.
+The Leopold prides itself on not stocking the typical big brand lagers, nor do we sell shots and in doing so the tavern has carved a distinct niche for itself in an area rich with pubs.
+
+At the Leopold my main responsibilities include managing our cellar, leading shifts, responsibility for cashing up at end of night and being a keyholder.
 
 ## Previous employment
 
@@ -33,6 +35,10 @@ Prior to these jobs I have held jobs at these supermarkets with responsibilities
 I have a diploma in physics, awarded by the University of Southampton.
 
 I also hold a personal licence and the BIIAB Award for Personal Licence Holders Level 2.
+
+### More about Simon
+
+My hobbies include writing, playing bass and juggling. For more about me please see [this page](http://smboyce.github.io/about).
 
 ### Contact me
 
