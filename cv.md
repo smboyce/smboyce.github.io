@@ -10,7 +10,7 @@ We have ten handpumps for traditional ale and also nine draught beers and ciders
 
 The Leopold prides itself on not stocking the typical big brand lagers, nor do we sell shots and in doing so the tavern has carved a distinct niche for itself in an area rich with pubs.
 
-At the Leopold my main responsibilities include managing our cellar, leading shifts, responsibility for cashing up at end of night and being a keyholder.
+At the Leopold my main responsibilities include being a keyholder and having control of the cash, managing our cellar, leading shifts and maintaining social media accounts.
 
 ## Previous employment
 
