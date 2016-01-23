@@ -10,7 +10,7 @@ I've a bit of a soft spot for Nirvana but never gave their debut a chance. Will 
 
 [This article](http://www.vox.com/2016/1/22/10806632/album-every-day) gave me the inspiration to try and listen to a new-to-me album every day remaining in 2016.
 
-The plan is to theme the days of the week to provide some variety on a day to day basis and force me to explore and basically get out of my comfort zone. Yesterday was "Fun Friday" where I chose an album I know I'm likely to enjoy but for whatever reason have never listened to.
+The plan is to theme the days of the week to provide some variety on a day to day basis and force me to explore and get out of my comfort zone. Yesterday was "Fun Friday" where I chose an album I know I'm likely to enjoy but for whatever reason have never listened to.
 
 ## Nirvana
 
