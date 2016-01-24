@@ -3,7 +3,7 @@ layout: post
 title: Album a day - Every Open Eye by Chvrches
 ---
 
-The first album a friend said I should hear is by a group I know nothing about. Is it any good?
+The first album I'm told to hear is by a group I know nothing about. Is it any good?
 ![](https://upload.wikimedia.org/wikipedia/en/f/f8/CHVRCHES_-_Every_Open_Eye.png)
 
 ## An Album a Day
