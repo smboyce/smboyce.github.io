@@ -4,8 +4,6 @@ title: Save the date!
 permalink: /announcement/
 ---
 
-## An Announcement
-
 ### The wedding of Miss Paula Bussey and Mr Simon Boyce
 
 Hello, friends and family,
