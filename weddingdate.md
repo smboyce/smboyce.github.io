@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Save the date!
-permalink: /announcement/
+permalink: /savethedate/
 ---
 
 ### The wedding of Miss Paula Bussey and Mr Simon Boyce
