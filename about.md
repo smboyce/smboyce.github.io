@@ -28,7 +28,7 @@ Over ten years of bass playing and my fingertips are probably permanently ruined
 
 ### Tech
 
-I'm a big advocate of open source software. Currently I'm running Debian, Arch and Deepin on various machines and Paranoid Android on my Moto G. Working on some ideas for an app to track my ale drinking habits and suggest new venues and beers for users to try!
+I'm a big advocate of open source software. Currently I'm running Debian, Arch and Deepin on various machines and Paranoid Android on my Moto G. Recently I picked up a OnePlus and run Oxygen on that. Working on some ideas for an app to track my ale drinking habits and suggest new venues and beers for users to try! Nearer publishing is a little interactive story Android app for encouraging kids to read.
 
 ### Contact me
 
